@@ -1,2 +1,3 @@
 Moyens de paiement :
 - Espèces
+- Airtel Money
