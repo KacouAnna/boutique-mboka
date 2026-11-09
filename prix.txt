@@ -1,6 +1,3 @@
-Sac en pagne : 5000 F
-<<<<<<< HEAD
+Sac en pagne : 3500 F
 T-shirt : 3500 F
-=======
 T-shirt : 2500 F
->>>>>>> d5be0553c6e4bce90832c3025c00e87ec0038ac2
