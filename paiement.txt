@@ -1,3 +1,7 @@
 Moyens de paiement :
 - Espèces
+<<<<<<< HEAD
 - Airtel Money
+=======
+- MTN Mobile Money
+>>>>>>> d5be0553c6e4bce90832c3025c00e87ec0038ac2
